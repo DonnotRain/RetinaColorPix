@@ -1,0 +1,17 @@
+c:\users\天不下雨\documents\visual studio 2015\Projects\RetinaColorPix\RetinaColorPix\bin\Debug\RetinaColorPix.exe.config
+D:\Git\RetinaColorPix\RetinaColorPix\bin\Debug\RetinaColorPix.exe.config
+D:\Git\RetinaColorPix\RetinaColorPix\bin\Debug\RetinaColorPix.exe
+D:\Git\RetinaColorPix\RetinaColorPix\bin\Debug\RetinaColorPix.pdb
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.csprojResolveAssemblyReference.cache
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\MainWindow.g.cs
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\App.g.cs
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix_MarkupCompile.cache
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix_MarkupCompile.lref
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\MainWindow.baml
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.g.resources
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.Properties.Resources.resources
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.csproj.GenerateResource.Cache
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.exe
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.pdb
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\Themes\Generic.baml
