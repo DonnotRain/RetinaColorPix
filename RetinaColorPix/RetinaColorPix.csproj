@@ -40,6 +40,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -58,6 +60,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="CaptureWin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Themes\Generic.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -70,6 +76,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CaptureWin.xaml.cs">
+      <DependentUpon>CaptureWin.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ColorPicker\BindOnEnterTextBox.cs" />
     <Compile Include="ColorPicker\ColorComboBox.cs" />
     <Compile Include="ColorPicker\ColorPicker.cs" />
@@ -77,6 +86,7 @@
     <Compile Include="ColorPicker\ColorUtils.cs" />
     <Compile Include="ColorPicker\HsvControl.cs" />
     <Compile Include="ColorPicker\SpectrumSlider.cs" />
+    <Compile Include="Gdi32Helper.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
