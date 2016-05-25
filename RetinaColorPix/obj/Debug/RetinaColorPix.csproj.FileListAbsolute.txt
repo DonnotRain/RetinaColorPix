@@ -33,3 +33,5 @@ G:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.Properties.Resourc
 G:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\RetinaColorPix.csproj.GenerateResource.Cache
 G:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\CaptureWin.g.cs
 G:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\CaptureWin.baml
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\CaptureWin.g.cs
+D:\Git\RetinaColorPix\RetinaColorPix\obj\Debug\CaptureWin.baml

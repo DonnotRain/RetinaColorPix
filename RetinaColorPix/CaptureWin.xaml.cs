@@ -64,8 +64,7 @@ namespace RetinaColorPix
 
         private void CaptureWin_Loaded(object sender, RoutedEventArgs e)
         {
-            _tm = new DispatcherTimer();
-            _tm.Interval = TimeSpan.FromMilliseconds(100);
+            _tm = new DispatcherTimer {Interval = TimeSpan.FromMilliseconds(100)};
             _tm.Tick += _tm_Tick;
             _tm.Start();
         }
@@ -93,7 +92,6 @@ namespace RetinaColorPix
             {
                 return;
             }
-
 
             var xPosition = p.X * (int)_scaleX;
             var yPosition = p.Y * (int)_scaleY;
